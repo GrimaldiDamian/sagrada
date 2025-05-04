@@ -29,18 +29,17 @@ Este proyecto consiste en la extracción, procesamiento y análisis de informaci
 ```
 /
 ├── README.md
-├── sagrada/
-│   ├── datos/
-│   │   ├── estadisticas/
-│   │   ├── informacion/
-│   │   │   ├── pdfs_transcriptos.txt
-│   │   │   ├── videos_transcriptos.txt
-│   │   ├── relaciones/
-│   ├── codigo/
-│   │   ├── docx_pdfs/
-│   │   ├── pdf_transcript.ipynb
-│   │   ├── video_transcript.ipynb
-│   ├── informe/
+├── datos/
+│   ├── estadisticas/
+│   ├── informacion/
+│   │   ├── pdfs_transcriptos.txt
+│   │   ├── videos_transcriptos.txt
+│   ├── relaciones/
+├── codigo/
+│   ├── docx_pdfs/
+│   ├── pdf_transcript.ipynb
+│   ├── video_transcript.ipynb
+├── informe/
 ```
 
 ## Fuentes de datos
