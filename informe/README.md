@@ -78,7 +78,7 @@ Este proyecto consiste en la extracción, procesamiento y análisis de informaci
 
 ## Requisitos e instalación
 
-### Librerías principales
+### Librerías utilizadas
 ```python
 # Web scraping y navegación dinámica
 selenium
@@ -92,11 +92,16 @@ python-docx
 
 # Análisis de datos
 pandas
+
+# Extracción de transcripciones de videos
+youtube-transcript-api
+flask
+langdetect
 ```
 
 ### Instalación
 ```bash
-pip install selenium webdriver-manager beautifulsoup4 requests pdfplumber python-docx pandas
+pip install selenium webdriver-manager beautifulsoup4 requests pdfplumber python-docx pandas youtube-transcript-api flask langdetect
 ```
 
 ## Uso
