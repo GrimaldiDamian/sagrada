@@ -113,7 +113,7 @@ Los datos fueron scrapeados de los siguientes sitios:
 -   misutmeeple
 -   boardgamesgeek
 
-Se tuvieron en cuenta únicamente textos, transcripciones, pdfs, estadísticas y créditos que esten en ingles y español. 
+Se tuvieron en cuenta únicamente textos, transcripciones, pdfs, estadísticas y créditos que esten en ingles, aleman y español. 
 
 
 [Pendiente completar con información sobre el análisis post-extracción y visualizaciones]
