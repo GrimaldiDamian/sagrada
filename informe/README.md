@@ -124,8 +124,6 @@ Número total de caracteres de los transcripciondes devideos transcriptos: 37582
 Estadísticas:
 ![image](https://github.com/user-attachments/assets/da7f18e2-ddc5-4af8-91e1-1291e7bb8eb7)
 
-![image](https://github.com/user-attachments/assets/a88e063d-f510-4991-8742-5ddabca72ef0)
-
 
 ## Licencia
 Este proyecto es de uso académico para la Tecnicatura Universitaria en Inteligencia Artificial.
