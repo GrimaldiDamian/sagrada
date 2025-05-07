@@ -119,10 +119,12 @@ Número total de caracteres de los pdfs transcriptos: 27394
 ![image](https://github.com/user-attachments/assets/6232ea29-9ca6-4553-a1f9-45a415a06b86)
 
 Número total de caracteres de los transcripciondes devideos transcriptos: 375826
-![image](https://github.com/user-attachments/assets/981fbb1b-4e2c-4abe-9680-f7064207af81)
+![image](https://github.com/user-attachments/assets/50c8ebe8-e873-4b63-89df-f007870bf02a)
 
 Estadísticas:
 ![image](https://github.com/user-attachments/assets/da7f18e2-ddc5-4af8-91e1-1291e7bb8eb7)
+
+![image](https://github.com/user-attachments/assets/a88e063d-f510-4991-8742-5ddabca72ef0)
 
 
 ## Licencia
