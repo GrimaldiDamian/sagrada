@@ -39,6 +39,9 @@ Este proyecto consiste en la extracción, procesamiento y análisis de informaci
 │   ├── docx_pdfs/
 │   ├── pdf_transcript.ipynb
 │   ├── video_transcript.ipynb
+│   ├── extraccion_creditos.ipynb
+│   ├── extraccion_estadisticas.ipynb
+│   ├── analisis_postextraccion.ipynb
 ├── informe/
 ```
 
@@ -115,13 +118,19 @@ Los datos fueron scrapeados de los siguientes sitios:
 
 Se tuvieron en cuenta únicamente textos, transcripciones, pdfs, estadísticas y créditos que esten en ingles, aleman y español. El archivo: analisis_postextración muestra las métricas de los textos obtenidos y sus gráficos:
 
+### Información
+
 Número total de caracteres de los pdfs transcriptos: 27394
 ![image](https://github.com/user-attachments/assets/6232ea29-9ca6-4553-a1f9-45a415a06b86)
 
-Número total de caracteres de los transcripciondes devideos transcriptos: 375826
+<br>
+
+Número total de caracteres de los transcripciondes de videos transcriptos: 375826
 ![image](https://github.com/user-attachments/assets/50c8ebe8-e873-4b63-89df-f007870bf02a)
 
-Estadísticas:
+<br>
+
+### Estadísticas 
 ![image](https://github.com/user-attachments/assets/da7f18e2-ddc5-4af8-91e1-1291e7bb8eb7)
 
 
