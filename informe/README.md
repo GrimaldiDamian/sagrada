@@ -113,10 +113,17 @@ Los datos fueron scrapeados de los siguientes sitios:
 -   misutmeeple
 -   boardgamesgeek
 
-Se tuvieron en cuenta únicamente textos, transcripciones, pdfs, estadísticas y créditos que esten en ingles, aleman y español. 
+Se tuvieron en cuenta únicamente textos, transcripciones, pdfs, estadísticas y créditos que esten en ingles, aleman y español. El archivo: analisis_postextración muestra las métricas de los textos obtenidos y sus gráficos:
 
+Número total de caracteres de los pdfs transcriptos: 27394
+![image](https://github.com/user-attachments/assets/6232ea29-9ca6-4553-a1f9-45a415a06b86)
 
-[Pendiente completar con información sobre el análisis post-extracción y visualizaciones]
+Número total de caracteres de los transcripciondes devideos transcriptos: 375826
+![image](https://github.com/user-attachments/assets/981fbb1b-4e2c-4abe-9680-f7064207af81)
+
+Estadísticas:
+![image](https://github.com/user-attachments/assets/da7f18e2-ddc5-4af8-91e1-1291e7bb8eb7)
+
 
 ## Licencia
 Este proyecto es de uso académico para la Tecnicatura Universitaria en Inteligencia Artificial.
