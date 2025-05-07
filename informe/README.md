@@ -58,7 +58,7 @@ Este proyecto consiste en la extracción, procesamiento y análisis de informaci
 
 ### 2. Extracción de videos
 - **Archivo**: `video_transcript.ipynb`
-- **Librería principal**: Selenium
+- **Librería principal**: Selenium, youtube-transcript-api
 - **Contenido extraído**: Transcripción de 23 videos junto con su correspondiente TÍTULO,ID,URL,IDIOMA DETECTADO
 
 ### 3. Extracción de PDFs
@@ -67,13 +67,13 @@ Este proyecto consiste en la extracción, procesamiento y análisis de informaci
 - **Contenido extraído**: Texto completo de archivos PDF y DOCX relacionados con el juego
 
 ### 4. Extracción de estadísticas
-- **Archivo**: `COMPLETAR`
+- **Archivo**: `extraccion_estadisticas.ipynb`
 - **Librería principal**: Selenium, pandas
 - **Contenido extraído**: Datos estadísticos del juego en formato tabular
 
 ### 5. Extracción de créditos
-- **Archivo**: `COMPLETAR`
-- **Librería principal**: Selenium, pandas
+- **Archivo**: `extraccion_creditos.ipynb`
+- **Librería principal**: Pandas
 - **Contenido extraído**: Información de créditos y relaciones entre entidades vinculadas al juego
 
 ## Requisitos e instalación
@@ -108,6 +108,14 @@ pip install selenium webdriver-manager beautifulsoup4 requests pdfplumber python
 Cada notebook está diseñado para extraer un tipo específico de información y puede ejecutarse de forma independiente. Los datos extraídos se guardan en archivos CSV o en carpetas específicas dentro del repositorio.
 
 ## Análisis de los datos
+Los datos fueron scrapeados de los siguientes sitios:
+
+-   misutmeeple
+-   boardgamesgeek
+
+Se tuvieron en cuenta únicamente textos, transcripciones, pdfs, estadísticas y créditos que esten en ingles y español. 
+
+
 [Pendiente completar con información sobre el análisis post-extracción y visualizaciones]
 
 ## Licencia
