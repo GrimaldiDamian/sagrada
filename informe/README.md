@@ -31,16 +31,21 @@ Este proyecto consiste en la extracción, procesamiento y análisis de informaci
 ├── README.md
 ├── datos/
 │   ├── estadisticas/
+│   │   ├── all.csv
 │   ├── informacion/
-│   │   ├── pdfs_transcriptos.txt
-│   │   ├── videos_transcriptos.txt
+│   │   ├── imagenes//
+│   │   │   ├── all.jpg
+│   │   ├── all.txt
 │   ├── relaciones/
+│   │   ├── all.csv
 ├── codigo/
 │   ├── docx_pdfs/
-│   ├── pdf_transcript.ipynb
-│   ├── video_transcript.ipynb
+│   │   ├── SAGRADA.pdf
+│   │   ├── Sagrada-Rules-Floodgate-Games-SA01.pdf
+│   │   ├── Sagrada__Automa_wPassion_-Deluxe_-_German.pdf
+│   │   ├── Sagrada_solitaire_variant.docx
+│   ├── sagrada.ipynb
 │   ├── extraccion_creditos.ipynb
-│   ├── extraccion_estadisticas.ipynb
 │   ├── analisis_postextraccion.ipynb
 ├── informe/
 ```
